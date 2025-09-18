@@ -3,7 +3,6 @@ const accountId = 144553
  var accountPassword = "12345"
  accountCity = "indore"
  let accountState;
-
  // accountId = 2 // not allowed
 
 accountEmail = "hc@hc.com"
